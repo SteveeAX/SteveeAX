@@ -10,7 +10,7 @@ Ingeniero apasionado por resolver problemas reales mediante la integración de s
 
 | Categoría | Tecnologías |
 | :--- | :--- |
-| **Lenguajes** | Python, SQL, C/C++, JavaScript, Dart |
+| **Lenguajes** | Python, SQL, C++(Arduino), JavaScript, Dart |
 | **IoT & Cloud** | AWS (IoT Core), Google Cloud, MQTT, ESP32, Raspberry Pi |
 | **Data & AI** | TensorFlow, YOLO, PyTorch, Scikit-learn, Pandas |
 | **Desarrollo** | Flutter, Git/GitHub, Linux |
