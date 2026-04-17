@@ -18,13 +18,6 @@ Ingeniero apasionado por resolver problemas reales mediante la integración de s
 
 ---
 
-## 🚀 Proyectos Destacados
-
-* **Asistente Virtual IA:** Desarrollado con Raspberry Pi y Google Cloud para asistencia a adultos mayores.
-* **Predicción Fotovoltaica:** Modelo predictivo para estimar la potencia de salida en sistemas solares.
-* **Smart Home IoT:** Sistema de monitoreo eléctrico residencial usando AWS y aplicación móvil en Flutter.
-
----
 
 ## 📫 Conecta conmigo
 
