@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Steveen Quiroz
 
-### Ingeniero en Telemática | IoT & Data Science Specialist 🚀
+### Ingeniero en Telemática | IoT & Data Science Specialist 
 
 Ingeniero apasionado por resolver problemas reales mediante la integración de sistemas embebidos, analítica de datos e inteligencia artificial. Mi enfoque está en transformar datos capturados del mundo físico en soluciones inteligentes y escalables.
 
